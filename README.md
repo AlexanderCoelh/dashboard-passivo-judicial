@@ -6,6 +6,8 @@
 
 ![Dashboard](./images/dashboard.png)
 
+🔗 **Dashboard publicado no Power BI:** [Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjIyZmVhZjEtYWY0OC00MGYzLTgxMGEtOGQwZjQyNGZiNmQzIiwidCI6IjlkNTM4NDQwLTZkMjMtNDI4Ny04OTFkLTFlOTdhYmFiZGY1YyJ9)
+
 ---
 
 ## 🎯 Objetivo
