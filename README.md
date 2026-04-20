@@ -63,20 +63,7 @@ Principais etapas:
 
 ---
 
-## 📂 Como Utilizar
-
-1. Baixe o arquivo `.pbix`
-2. Abra no Power BI Desktop
-3. Utilize os filtros para explorar os dados
+## ⚠️ Considerações
+Este projeto foi desenvolvido com dados anonimizados e pode não refletir integralmente cenários reais, sendo utilizado para fins de análise e demonstração de habilidades em dados.
 
 ---
-
-## ⚠️ Observações
-
-Este projeto foi desenvolvido com fins educacionais e de portfólio.
-
----
-
-## 👤 Autor
-
-**Alexander Coelho**
